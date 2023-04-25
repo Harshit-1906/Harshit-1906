@@ -85,9 +85,11 @@
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=visual-studio-code&logoColor=ffffff&message=Visual%20Studio%20Code&style=flat-square" />
 </p>
 
+
+
+<p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit__150602" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit-1906" />
 </p>
 
-
-<p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="DhruviThakkar210" /></a> </p>
