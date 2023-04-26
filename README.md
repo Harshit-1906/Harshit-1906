@@ -13,13 +13,15 @@
 
 - 📫 How to reach me **harshitprasad1906@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Harshit__150602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshit__150602" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harshit-prasad-3b7707251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-prasad-3b7707251" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit_prasad20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DhruviThakkar210" height="30" width="40" /></a>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit-1906" />
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: **harshitprasad1906@gmail.com**
+
 
 
 
@@ -83,7 +85,4 @@
 
 <p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit-1906" />
-</p>
 
