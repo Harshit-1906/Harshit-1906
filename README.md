@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Data Structure**
 
 - 📫 How to reach me **harshitprasad1906@gmail.com**
-- 
+- 😄 Pronouns: HE/HIM
 
 
 <p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
