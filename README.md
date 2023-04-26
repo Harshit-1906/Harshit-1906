@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshit  Prasad</h1>
-<h3 align="center">A Software And Web Developer from India</h3>
+# Hi 👋, I'm Harshit  Prasad! Great to see you here!
+### A Software And Web Developer from India
 
 
 
@@ -18,8 +18,8 @@
 <p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: ** harshitprasad1906@gmail.com **
+
+I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: harshitprasad1906@gmail.com 
 
 
 
