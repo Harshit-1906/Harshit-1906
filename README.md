@@ -14,9 +14,7 @@
 - 📫 How to reach me **harshitprasad1906@gmail.com**
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit-1906" />
-</p>
+<p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -83,6 +81,9 @@ I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Bac
 
 
 
-<p align="center"> <a href="https://twitter.com/Harshit__150602" target="blank"><img src="https://img.shields.io/twitter/follow/Harshit__150602?logo=twitter&style=for-the-badge" alt="Harshit__150602" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=Harshit-1906" />
+</p>
+
 
 
