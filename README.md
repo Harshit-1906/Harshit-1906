@@ -35,12 +35,10 @@ I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Bac
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=html5&logoColor=ffffff&message=HTML5&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=latex&logoColor=ffffff&message=Bootstrap&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=sass&logoColor=ffffff&message=MernStack&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=gnu-bash&logoColor=ffffff&message=Shell%20Script&style=flat-square" />
-<br />
-<!-- Familiar -->
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=java&logoColor=ffffff&message=Java&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=javascript&logoColor=ffffff&message=JavaScript&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=python&logoColor=ffffff&message=Python&style=flat-square" />
+  <br />
 <br />
 <!-- Frameworks and Libraries -->
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=gRPC&style=flat-square" />
