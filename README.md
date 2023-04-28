@@ -43,7 +43,7 @@ I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Bac
 <!-- Frameworks and Libraries -->
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=gRPC&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=go&logoColor=ffffff&message=gRPC-Gateway&style=flat-square" />
-<img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hugo&logoColor=ffffff&message=Hugo&style=flat-square" />
+
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=jekyll&logoColor=ffffff&message=Jekyll&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=react&logoColor=ffffff&message=React.js&style=flat-square" />
 <img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=python&logoColor=ffffff&message=SymPy&style=flat-square" />
