@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **PARUL University ,Vadodara**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **harshitprasad1906@gmail.com**
 - 😄 Pronouns: HE/HIM
