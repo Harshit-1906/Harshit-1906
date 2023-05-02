@@ -1,5 +1,5 @@
 # Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Harshit  Prasad! Great to see you here!😇
-##  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calisto+MT&size=31&duration=5096&pause=1000&color=F7F7F7&vCenter=true&width=975&height=47&lines=A++Passionate++Software+and+Web+Developer+From+India!++%F0%9F%87%AE%F0%9F%87%B3%F0%9F%98%87+" alt="Typing SVG" /></a>
+##  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calisto+MT&size=31&duration=5096&pause=1000&color=F7F7F7&vCenter=true&width=975&height=47&lines=A++Passionate++Software+and+Web+Developer+From+India!++" alt="Typing SVG" /></a>
 
 
 
