@@ -18,7 +18,7 @@
 
 
 
-I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: harshitprasad1906@gmail.com 
+I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: https://portfolio-three-mu-58.vercel.app/
 
 
 
