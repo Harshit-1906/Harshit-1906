@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **PARUL University ,Vadodara**
+- 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **Parul University ,Vadodara**
 
 - 🌱 I’m currently learning **DevOps**
 
