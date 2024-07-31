@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **Parul University ,Vadodara**
+- 🔭 I recently completed my **Bachelor Degree in Computer Science Engineering** from **Parul University ,Vadodara**
 
 - 🌱 I’m currently learning **Dot.NetCore**
 
