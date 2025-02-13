@@ -10,7 +10,6 @@
 - 🔭 I recently completed my **Bachelor Degree in Computer Science Engineering(Artificial Intelligence)** from **Parul University ,Vadodara**
 
 - 🌱 I’m currently learning about **AI Agent**
-bo
 - 📫 How to reach me **harshitprasad1906@gmail.com**
 - 😄 Pronouns: HE/HIM
 
