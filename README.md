@@ -18,7 +18,11 @@
 
 
 
-I am Harshit Satyanarayan Prasad, Recently I worked as Software Developer as Backend Developer(Aerocraft) at Colpare Technologies and Open source contributor. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & building some Personal mini Projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: https://portfolio-three-mu-58.vercel.app/
+Thrilled to join METCO Engineering Inc. as an AI Engineer (R&D), driving innovation at the intersection of Generative AI and renewable energy. 🌱⚡
+
+In this role, I’m spearheading AI research and development projects to revolutionize smart energy management using cutting-edge technologies like Microsoft Power BI, Deep Learning, NLP, and Computer Vision. Collaborating with cross-functional teams, we’re pushing the boundaries of AI-driven solutions to transform the energy and utilities sector.
+
+Looking forward to contributing to a sustainable future through AI! Let’s connect and explore the endless possibilities of technology in energy. 🚀🔍 #AI #RenewableEnergy #MachineLearning #PowerBI #DeepLearning #Innovation Find out more about me & feel free to connect with me here: https://portfolio-three-mu-58.vercel.app/
 
 
 
