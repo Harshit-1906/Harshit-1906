@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I completed my **Bachelor Degree in Computer Science Engineering(Artificial Intelligence)** in 2024 from **Parul University ,Vadodara**
+- 🔭 I completed my **Bachelor Degree in Computer Science Engineering(Artificial Intelligence)** in 2024 from **Parul University ,Vadodara,Gujarat**
 
 - 🌱 I’m currently learning about **AI Agent**
 - 📫 How to reach me **harshitprasad1906@gmail.com**
