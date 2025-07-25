@@ -1,7 +1,7 @@
 
 # *__Hii__* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />___,I'm Harshit Prasad!Great to see you here!😇___
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calisto+MT&size=24&duration=5096&pause=1000&color=F7F7F7&vCenter=true&width=712&height=42&lines=A+Passionate+Software+and+AI++Engineer+From+India!+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calisto+MT&size=24&duration=5096&pause=1000&color=F7F7F7&vCenter=true&width=712&height=42&lines=A+Passionate+AI++Engineer+From+India!+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 
 
 
